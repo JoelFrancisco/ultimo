@@ -2,7 +2,8 @@
 
 void setup() {
   // put your setup code here, to run once:
-  //modi on
+  //modi on]
+  pinMode(13,OUTPUT);
 }
 
 void loop() {
